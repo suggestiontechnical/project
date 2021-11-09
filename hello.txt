@@ -1,6 +1,10 @@
 This is a new file added from github
 now i am changing this file and the index.html file and commiting these changes with the name of file updated in local.
 this is a commit from local repo.
+<<<<<<< HEAD
 this is comit 1 at new branch
 this is for commit 2 at new branch
 this is for commit 3 at new branch
+=======
+this is 1st comit for rebase example at master branch.
+>>>>>>> 8ad6384 (1st commit for rebase)
