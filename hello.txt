@@ -3,3 +3,4 @@ now i am changing this file and the index.html file and commiting these changes 
 this is a commit from local repo.
 this is comit 1 at new branch
 this is for commit 2 at new branch
+this is for commit 3 at new branch
